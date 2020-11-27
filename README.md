@@ -1,19 +1,8 @@
 # my-vue-study
+##实现compile解析器
+[Compile解析指令](./Compile.js)
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+##实现Observer & Dep
+[Observer监听者](./Observer.js)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
